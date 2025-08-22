@@ -1,0 +1,68 @@
+[
+    {
+        "title": "In Search of Lost Time",
+        "author": "Marcel Proust",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "The Energy Codes",
+        "author": "Dr. Sue Morter",
+        "genre": "Self-Help",
+        "status": "Unread"
+    },
+    {
+        "title": "Nineteen Eighty Four",
+        "author": "George Orwell",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "To The Lighthouse",
+        "author": "Virginia Woolf",
+        "genre": "Fiction",
+        "status": "Unread"
+    },
+    {
+        "title": "Open Me Carefully",
+        "author": "Emily Dickinson",
+        "genre": "Poetry",
+        "status": "Unread"
+    }
+]
